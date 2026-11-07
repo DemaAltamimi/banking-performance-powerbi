@@ -66,12 +66,17 @@ Data Analytics Portfolio Project
 
 ## Dashboard Preview
 
-### Banking Overview
-![Banking Overview](./Banking-Overview.png)
+### 1. Banking Overview
 
-### Transactions Analysis
-![Transactions Analysis](./Transactions-Analysis.png)
+![Banking Overview - Screenshot 1](./Screenshot%202026-11-07%20135413.png)
 
-### Customers & Branches
-![Customers & Branches](./Customers-Branches.png)
+![Banking Overview - Screenshot 2](./Screenshot%202026-11-07%20135507.png)
+
+### 2. Transactions Analysis
+
+![Transactions Analysis](./Screenshot%202026-11-07%20135313.png)
+
+### 3. Customers & Branches
+
+![Customers & Branches](./Screenshot%202026-11-07%20135214.png)
 
