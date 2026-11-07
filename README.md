@@ -82,3 +82,18 @@ Data Analytics Portfolio Project
 ### Relationship Diagram
 
 ![Banking Data Model](./image.png)
+
+---
+
+## DAX Documentation
+
+The project includes DAX measures for customer analysis, transaction analysis, and financial performance calculations.
+
+[View DAX Measures](./DAX/Measures.md)
+
+## Data Model
+
+The model connects customer information with banking transactions through CustomerID.
+
+[View Data Model](./image.png)
+
