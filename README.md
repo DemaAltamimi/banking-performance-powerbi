@@ -67,11 +67,9 @@ Data Analytics Portfolio Project
 ## Dashboard Preview
 
 ### 1. Banking Overview
-![Banking Overview](./Screenshot%202026-11-07%20135313.png)
-
-
 ![Banking Overview](./Screenshot%202026-11-07%20135214.png)
 
+![Banking Overview](./Screenshot%202026-11-07%20135313.png)
 
 ### 2. Transactions Analysis
 
