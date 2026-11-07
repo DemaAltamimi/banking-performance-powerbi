@@ -79,3 +79,7 @@ Data Analytics Portfolio Project
 
 ![Customers & Branches](./Screenshot%202026-11-07%20135507.png)
 
+### Relationship Diagram
+
+![Banking Data Model](./Screenshot%202026-11-07%20141642.png)
+
