@@ -61,3 +61,17 @@ Financial calculations include completed transactions only. Net Cash Flow is cal
 
 ## Author
 Data Analytics Portfolio Project
+
+---
+
+## Dashboard Preview
+
+### Banking Overview
+![Banking Overview](./Banking-Overview.png)
+
+### Transactions Analysis
+![Transactions Analysis](./Transactions-Analysis.png)
+
+### Customers & Branches
+![Customers & Branches](./Customers-Branches.png)
+
