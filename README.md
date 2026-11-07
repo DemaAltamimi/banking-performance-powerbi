@@ -81,5 +81,4 @@ Data Analytics Portfolio Project
 
 ### Relationship Diagram
 
-![Banking Data Model](./Screenshot%202026-11-07%20141642.png)
-
+![Banking Data Model](./image.png)
